@@ -1,0 +1,50 @@
+[{
+  "id":1,
+  "SellRent":1,
+  "name":"Birla Velaa",
+  "type":"House",
+  "price":1200,
+  "Imag":"1"
+ },
+{
+  "id":2,
+  "SellRent":2,
+  "name":"kaka house",
+  "type":"House",
+  "price":1780,
+  "Imag":"2"
+},
+{
+  "id":3,
+  "SellRent":1,
+  "name":"Mina house",
+  "type":"House",
+  "price":80000,
+  "Imag":"4"
+},
+{
+  "id":4,
+  "SellRent":1,
+  "name":"GOGO house",
+  "type":"House",
+  "price":7000,
+  "Imag":"5"
+},
+{
+  "id":5,
+  "SellRent":1,
+  "name":"Mina house",
+  "type":"House",
+  "price":6900,
+  "Imag":"6"
+},
+{
+  "id":6,
+  "SellRent":1,
+  "name":"tony house",
+  "type":"House",
+  "price":12200,
+  "Imag":"7"
+}
+
+]
